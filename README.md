@@ -1,4 +1,4 @@
-### Hi! I'm a full-stack developer 👩🏻‍💻, who likes to find patterns and solve problems 😄.  
+### Hi! I am a full-stack developer 👩🏻‍💻, who likes to find patterns and solve problems 😄.  
  
 🔭 Know more about my domain and skills on [Codersranks](https://profile.codersrank.io/user/swastij) | [WakaTime](https://wakatime.com/@swastij).
 
