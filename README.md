@@ -2,7 +2,7 @@
  
 🔭 Know more about the domains I have worked in and my skills on [Codersranks](https://profile.codersrank.io/user/swastij) | [WakaTime](https://wakatime.com/@swastij).
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/swastijain01/) | [Twitter](https://twitter.com/doll_swastij). 
+📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/swastijain01/) | [Twitter](https://twitter.com/doll_swastij). 
 
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=swastij&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
