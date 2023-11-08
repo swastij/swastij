@@ -1,6 +1,6 @@
 ### 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-#### Experienced full-stack developer, passionate about solving complex problems through code. Proficient in various frameworks. Eager to collaborate on innovative projects. Let's code and create together!  
+Experienced full-stack developer, passionate about solving complex problems through code. Proficient in various frameworks. Eager to collaborate on innovative projects. Let's code and create together!  
  
 🔭 Know more about the domains I have worked in and my skills on [Codersranks](https://profile.codersrank.io/user/swastij) | [WakaTime](https://wakatime.com/@swastij).
 
